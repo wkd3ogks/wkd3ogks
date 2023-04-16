@@ -50,7 +50,6 @@ I am a Student at University from Korea.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
 ### :fire: My Stats :
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdeogks17)](https://solved.ac/wkdeogks17/)
 
