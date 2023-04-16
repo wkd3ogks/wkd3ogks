@@ -1,4 +1,4 @@
-### Hi there 👋
+# JANG DAE HAN 😉
 
 <!--
 **wkd3ogks/wkd3ogks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![wkd3ogks's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkd3ogks)](https://github.com/wkd3ogks/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdeogks17)](https://solved.ac/wkdeogks17/)
