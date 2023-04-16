@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ---
 ### :woman_technologist: About Me
 I am a Student at University from Korea.
-- :telescope: I’m Studying Computer Engineering.
+- :telescope: I’m Studying Computer Engineering in KwangWoon University.
 - :zap: I love solving problems on Backjoon.
 ### :hammer_and_wrench: Languages and Tools
 <div>
