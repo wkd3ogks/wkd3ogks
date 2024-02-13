@@ -20,28 +20,13 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300px"/>
+
   
   ### 장대한(JANG DAE HAN)
-  
- <div id="badges">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blog-CC0000?style=for-the-badge&logo=jekyll&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  
- </div>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdeogks17)](https://solved.ac/wkdeogks17/)
 </div>
 
 ---
-### :woman_technologist: About Me
-I am a Student at University from Korea.
-- :telescope: I’m Studying Computer Engineering in KwangWoon University.
-- :zap: I love solving problems on Backjoon.
-
-### :fire: My Stats :
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdeogks17)](https://solved.ac/wkdeogks17/)
-
 
 
