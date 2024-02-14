@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 
   
-  ### 장대한(JANG DAE HAN)
+  ### 장대한(JANG DAE HAN) [![Medium Badge](https://img.shields.io/badge/@wkdeogks17-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@wkdeogks17)](https://medium.com/@wkdeogks17)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdeogks17)](https://solved.ac/wkdeogks17/)
+
+  
 </div>
 
 ---
