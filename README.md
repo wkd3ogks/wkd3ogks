@@ -19,6 +19,8 @@
 ## 🎮 Projects
 ### 1. [Tic-Tac-Toe with Minimax Algorithm](https://github.com/wkd3ogks/tictactoe)
 Minimax 알고리즘과 비트마스킹을 활용해 최적의 수를 선택하는 틱택토 AI 게임을 구현했습니다.
+### 2. [Quine McCluskey with Genetic Algorithm](https://github.com/wkd3ogks/GeneticQM)
+퀸 맥클러스키 알고리즘을 최적화하기 위해 유전 알고리즘을 적용한 프로젝트입니다.
 
 ## 🎯 Future Plans
 - **알고리즘 문제 해결**: 올해 안에 백준에서 적어도 1000문제를 풀 계획입니다. 알고리즘 문제 해결 능력을 더욱 향상시켜 다양한 문제에 도전하고 싶습니다.
