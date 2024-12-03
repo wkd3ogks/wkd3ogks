@@ -11,4 +11,4 @@
 ## 🎮 Projects
 
 ### 1. [Quine McCluskey with Genetic Algorithm](https://github.com/wkd3ogks/GeneticQM)
-퀸 맥클러스키 알고리즘을 최적화하기 위해 유전 알고리즘을 적용한 프로젝트입니다.
+퀸 맥클러스키 알고리즘에 유전 알고리즘을 적용한 프로젝트입니다.
