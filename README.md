@@ -6,4 +6,4 @@
 * 광운대학교, 컴퓨터공학 전공(2021년 3월 ~ 현재)
   
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript
+- **Languages:** Python
